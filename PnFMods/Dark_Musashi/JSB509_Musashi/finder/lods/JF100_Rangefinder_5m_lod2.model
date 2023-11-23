@@ -1,0 +1,8 @@
+<JF100_Rangefinder_5m_lod2.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/Dark_Musashi/JSB509_Musashi/finder/lods/JF100_Rangefinder_5m_lod3	</parent>
+	<nodefullVisual>	PnFMods/Dark_Musashi/JSB509_Musashi/finder/lods/JF100_Rangefinder_5m_lod2	</nodefullVisual>
+	<castsShadow>	false	</castsShadow>
+	<extent>	12.0000	</extent>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JF100_Rangefinder_5m_lod2.model>

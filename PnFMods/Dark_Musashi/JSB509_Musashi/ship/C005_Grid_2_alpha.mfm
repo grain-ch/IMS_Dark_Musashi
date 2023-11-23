@@ -1,0 +1,10 @@
+<C005_Grid_2_alpha.mfm>
+	<fx>	shaders/std_effects/grid_alpha.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/Dark_Musashi/JSB509_Musashi/ship/C005_Grid_2_alpha_a.dds	</Texture>
+	</property>
+	<property>	doubleSided
+		<Bool>	true	</Bool>
+	</property>
+</C005_Grid_2_alpha.mfm>

@@ -1,0 +1,7 @@
+<JGA173_25mm_Type96_dead.model>
+	<castsShadow>	false	</castsShadow>
+	<parent>	PnFMods/Dark_Musashi/JSB509_Musashi/gun/lods/JGA173_25mm_Type96_dead_lod1	</parent>
+	<extent>	3.0000	</extent>
+	<nodefullVisual>	PnFMods/Dark_Musashi/JSB509_Musashi/gun/JGA173_25mm_Type96_dead	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JGA173_25mm_Type96_dead.model>

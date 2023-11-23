@@ -1,0 +1,7 @@
+<JD095_Director_Type_95_Mod2.model>
+	<castsShadow>	false	</castsShadow>
+	<parent>	PnFMods/Dark_Musashi/JSB509_Musashi/director/lods/JD095_Director_Type_95_Mod2_lod1	</parent>
+	<extent>	3.0000	</extent>
+	<nodefullVisual>	PnFMods/Dark_Musashi/JSB509_Musashi/director/JD095_Director_Type_95_Mod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JD095_Director_Type_95_Mod2.model>

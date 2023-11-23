@@ -1,0 +1,13 @@
+<JGA004_25mm_Type96_Triple_1_wire.mfm>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<property>	normalMap
+		<Texture>	PnFMods/Dark_Musashi/JSB509_Musashi/gun/JGA004_25mm_Type96_Triple_1_n.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/Dark_Musashi/JSB509_Musashi/gun/JGA004_25mm_Type96_Triple_1_mg.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/Dark_Musashi/JSB509_Musashi/gun/JGA004_25mm_Type96_Triple_1_a.dds	</Texture>
+	</property>
+</JGA004_25mm_Type96_Triple_1_wire.mfm>
