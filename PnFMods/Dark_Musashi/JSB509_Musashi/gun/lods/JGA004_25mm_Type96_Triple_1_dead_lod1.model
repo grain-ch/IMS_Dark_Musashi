@@ -1,8 +1,0 @@
-<JGA004_25mm_Type96_Triple_1_dead_lod1.model>
-	<castsShadow>	false	</castsShadow>
-	<extent>	10.0000	</extent>
-	<parent>	PnFMods/Dark_Musashi/JSB509_Musashi/gun/lods/JGA004_25mm_Type96_Triple_1_dead_lod2	</parent>
-	<exporter>	1.6	</exporter>
-	<nodefullVisual>	PnFMods/Dark_Musashi/JSB509_Musashi/gun/lods/JGA004_25mm_Type96_Triple_1_dead_lod1	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</JGA004_25mm_Type96_Triple_1_dead_lod1.model>

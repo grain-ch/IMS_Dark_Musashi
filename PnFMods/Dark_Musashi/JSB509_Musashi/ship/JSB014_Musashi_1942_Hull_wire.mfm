@@ -7,7 +7,4 @@
 	<property>	metallicGlossMap
 		<Texture>	PnFMods/Dark_Musashi/JSB509_Musashi/ship/JSB014_Musashi_1942_Hull_mg.dds	</Texture>
 	</property>
-	<property>	normalMap
-		<Texture>	PnFMods/Dark_Musashi/JSB509_Musashi/ship/JSB014_Musashi_1942_Hull_n.dds	</Texture>
-	</property>
 </JSB014_Musashi_1942_Hull_wire.mfm>

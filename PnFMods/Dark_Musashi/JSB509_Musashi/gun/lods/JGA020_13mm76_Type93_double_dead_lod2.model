@@ -1,7 +1,0 @@
-<JGA020_13mm76_Type93_double_dead_lod2.model>
-	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/Dark_Musashi/JSB509_Musashi/gun/lods/JGA020_13mm76_Type93_double_dead_lod3	</parent>
-	<extent>	3.0000	</extent>
-	<nodefullVisual>	PnFMods/Dark_Musashi/JSB509_Musashi/gun/lods/JGA020_13mm76_Type93_double_dead_lod2	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</JGA020_13mm76_Type93_double_dead_lod2.model>
